@@ -6,5 +6,8 @@ Steve is a good guy
 
 for introduction, see intro.txt
 
+Solving PDEs on flat surfaces
+
+Solving PDES on manifolds
 
 
